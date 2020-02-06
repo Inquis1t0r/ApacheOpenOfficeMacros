@@ -1,0 +1,9 @@
+REM  *****  BASIC  *****
+
+Sub Main
+
+End Sub
+
+Sub Macro1
+	InputVal = InputBox("Please enter value:", "Test", "default value")
+End Sub
